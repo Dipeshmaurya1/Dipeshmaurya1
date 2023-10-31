@@ -1,4 +1,4 @@
-![MasterHead](https://halfwayriight.tumblr.com/post/186730260789/animated-banner-artwork-for-the-great-rolly)
+![MasterHead](https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif)
 <h1 align="center">Hi 👋, I'm Dipesh Maurya</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
