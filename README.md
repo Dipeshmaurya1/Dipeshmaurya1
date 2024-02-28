@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter Development**
 
-- 🌱 I’m currently learning **C-Language**
+- 🌱 I’m currently learning **C++ Language**
 
 - 🤝 I’m looking for help with **Senior Flutter Developers**
 
